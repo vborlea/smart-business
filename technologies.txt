@@ -1,0 +1,13 @@
+Frontend:
+	- React 
+	- Bootstrap
+
+Backend:
+	- Java / Node JS
+	- Hibernate + Lucene?
+	- MariaDB
+	
+
+
+Links:
+	https://www.creative-tim.com
