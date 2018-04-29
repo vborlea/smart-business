@@ -1,10 +1,13 @@
 Frontend:
 	- React 
 	- Bootstrap
+	- typescript
+	- webpack
 
 Backend:
 	- Java / Node JS
 	- Hibernate + Lucene?
+	- redgate for db sync
 	- MariaDB
 	
 
