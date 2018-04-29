@@ -1,0 +1,26 @@
+{
+  "name": "smart-business-portal",
+  "version": "0.0.1",
+  "description": "A secret",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --open --mode development --config webpack.config.js",
+    "build": "webpack -p --progress --mode production --config webpack.config.js"
+  },
+  "author": "Nicolae Anca",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.3.13",
+    "cross-env": "^5.1.4",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.3.2",
+    "ts-loader": "^4.2.0",
+    "typescript": "^2.8.3",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15",
+    "webpack-dev-server": "^3.1.3"
+  },
+  "dependencies": {}
+}
